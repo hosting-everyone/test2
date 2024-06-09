@@ -28,8 +28,8 @@ export const config = {
         "auto_kill_kane": KillKane
     },
     tutorialUrl: "https://github.com/SonMooSans/discord-bot-dashboard",
-    serverUrl: "http://localhost:8080",
-    inviteUrl: "https://discord.com/api/oauth2/authorize?client_id=1004280473956139038&permissions=8&scope=bot",
+    serverUrl: "https://my-backend-2.thinbackend.app",
+    inviteUrl: "https://discord.com/oauth2/authorize?client_id=1249321650105749595&permissions=8&scope=bot",
     data: {
         dashboard: dashboardData,
     },
